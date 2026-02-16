@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "Sad Girl",
+  "base_artist": "キタニタツヤ",
+  "createdAt": "2026-02-16T11:44:53.837523Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Sad Girl",
+      "artist": "Lana Del Rey",
+      "has_synced": true,
+      "path": "select/01_Sad_Girl_Lana_Del_Rey.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Sad Girl",
+      "artist": "Moxy Fruvous",
+      "has_synced": false,
+      "path": "select/02_Sad_Girl_Moxy_Fruvous.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Sad Girl",
+      "artist": "Supergrass",
+      "has_synced": true,
+      "path": "select/03_Sad_Girl_Supergrass.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Sad Girl",
+      "artist": "Lana Del Rey",
+      "has_synced": true,
+      "path": "select/04_Sad_Girl_Lana_Del_Rey.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Sad Sad Girl",
+      "artist": "Barbara Mason",
+      "has_synced": false,
+      "path": "select/05_Sad_Sad_Girl_Barbara_Mason.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Sad Girl",
+      "artist": "Lana Del Rey",
+      "has_synced": true,
+      "path": "select/06_Sad_Girl_Lana_Del_Rey.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Sad Girl",
+      "artist": "Everlast",
+      "has_synced": false,
+      "path": "select/07_Sad_Girl_Everlast.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Sad Girl",
+      "artist": "Everlast",
+      "has_synced": true,
+      "path": "select/08_Sad_Girl_Everlast.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "All Too Well (Sad Girl Autumn Version) - Recorded at Long Pond Studios",
+      "artist": "Taylor Swift",
+      "has_synced": true,
+      "path": "select/09_All_Too_Well_(Sad_Girl_Autumn_Version)_-_Recorded_at_Long_Pond_Studios_Taylor_Swift.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Sad Girl",
+      "artist": "Lana Del Rey",
+      "has_synced": true,
+      "path": "select/10_Sad_Girl_Lana_Del_Rey.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Bad Boy, Sad Girl",
+      "artist": "SEULGI feat. BE'O",
+      "has_synced": true,
+      "path": "select/11_Bad_Boy,_Sad_Girl_SEULGI_feat._BE'O.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Bad Boy, Sad Girl",
+      "artist": "SEULGI, BE’O",
+      "has_synced": true,
+      "path": "select/12_Bad_Boy,_Sad_Girl_SEULGI,_BE’O.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "All Too Well (Sad Girl Autumn Version) - Recorded at Long Pond Studios",
+      "artist": "Taylor Swift",
+      "has_synced": true,
+      "path": "select/13_All_Too_Well_(Sad_Girl_Autumn_Version)_-_Recorded_at_Long_Pond_Studios_Taylor_Swift.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Sad Girl",
+      "artist": "キタニタツヤ",
+      "has_synced": true,
+      "path": "select/14_Sad_Girl_キタニタツヤ.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Sad Girl",
+      "artist": "Tatsuya Kitani",
+      "has_synced": true,
+      "path": "select/15_Sad_Girl_Tatsuya_Kitani.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Sad Girl",
+      "artist": "キタニタツヤ",
+      "has_synced": false,
+      "path": "select/pl_01_Sad_Girl_キタニタツヤ.txt"
+    }
+  ]
+}
