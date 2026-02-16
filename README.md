@@ -1,0 +1,50 @@
+# キタニタツヤ – Sad Girl
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:09.91] 一生 性と愛を引き換えにして
+[00:12.78] 「曖昧になった 不安がぜんぶ」なんて宣った
+[00:17.17] 殺してやろうか?お望み通りに
+[00:20.40] モルヒネ擬きの錠剤を噛み砕く音
+[00:23.71] あぁ ドア越しに聞くのにも慣れたな
+[00:27.40] それも全部タイムオーバー
+[00:33.40] 
+[00:29.83] からっぽだね きみ
+[00:32.29] 死にゆく獣の眼みたいだ
+[00:34.87] 「だってわたし あなたみたいに音楽とか作れないし」
+[00:39.83] くだらないよね それ
+[00:42.14] 何者かになれたらいいだけ?
+[00:45.45] ならインターネットでカラオケしてる方が
+[00:47.51] 随分マシだと思うけど
+[00:52.51] 
+[00:48.81] わかってるよ?
+[00:50.15] きみは夜の居場所を探して 身体を差し出して
+[00:54.71] 何人と 何十人と 即席の愛を交わした?
+[01:00.34] それでもいつも不安になって 飴玉流し込んで
+[01:04.73] 何年も 何十年も その後悔は続いていく
+[01:14.23] 
+[01:40.28] When night time just went behind my back
+[01:42.71] Your lies had just designed yourself
+[01:45.13] Good morning, bitch
+[01:46.13] I fucked up all of your places
+[01:48.33] If you die they'll love you, I think
+[02:06.33] 
+[01:50.31] You gonna trip again
+[01:51.54] I'm fed up with your fake pains
+[01:52.89] Getting stoned you covered the eyes and apologized to me
+[01:55.41] That's all of your life though no rhyme's done well here
+[02:23.41] 
+[01:59.89] Now I know
+[02:02.58] Your wrist have rusted away
+[02:05.16] And I know
+[02:07.44] You're prey to boys like me
+[02:10.59] They want you only for temporary desires
+[02:14.75] I'm so sorry but just as you do
+[02:30.25] 
+[02:18.91] わかってるよ?
+[02:20.20] きみは夜の居場所を探して 身体を差し出して
+[02:24.66] 何人と 何十人と 即席の愛を交わした?
+[02:30.22] それでもいつも不安になって 飴玉流し込んで
+[02:34.53] 何年も 何十年も その後悔は続いていく
+```
